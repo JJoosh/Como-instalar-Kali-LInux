@@ -1,5 +1,3 @@
-# installKaili
-
 # Instalación de Kali Linux en Windows y Mac M1
 
 Instalar Kali Linux en Windows y en una Mac con procesador M1 puede ser un proceso diferente debido a las diferencias en las arquitecturas y los sistemas operativos. A continuación, encontrarás una guía para cada plataforma:
