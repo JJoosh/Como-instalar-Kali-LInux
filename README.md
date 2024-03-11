@@ -69,3 +69,6 @@ La instalación de Kali Linux en una Mac con procesador M1 (Apple Silicon) requi
 
 Recuerda que esta configuración permite ejecutar Kali Linux en una máquina virtual en tu Mac M1 y puede tener algunas limitaciones de rendimiento en comparación con una instalación nativa. La elección entre la instalación nativa en Windows o la instalación en una máquina virtual en una Mac M1 dependerá de tus preferencias y necesidades específicas.
 
+
+## Para más ayuda puedes consultar este video
+(Como instalar Kali Linux)[https://youtu.be/TDmRD4FU4a8?si=JShayp5fGQ9WaXBh] 
