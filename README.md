@@ -71,4 +71,4 @@ Recuerda que esta configuración permite ejecutar Kali Linux en una máquina vir
 
 
 ## Para más ayuda puedes consultar este video
-(Como instalar Kali Linux)[https://youtu.be/TDmRD4FU4a8?si=JShayp5fGQ9WaXBh] 
+[Como instalar Kali Linux](https://youtu.be/TDmRD4FU4a8?si=JShayp5fGQ9WaXBh) 
