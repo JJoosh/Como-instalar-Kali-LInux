@@ -26,6 +26,10 @@ Instalar Kali Linux en Windows y en una Mac con procesador M1 puede ser un proce
 
 Ahora puedes utilizar Kali Linux directamente desde la aplicación que instalaste en Windows.
 
+## Para más ayuda puedes consultar este video
+[Como instalar Kali Linux](https://youtu.be/TDmRD4FU4a8?si=JShayp5fGQ9WaXBh) 
+
+
 # Instalación de Kali Linux en Mac M1 (Apple Silicon) utilizando UTM
 
 La instalación de Kali Linux en una Mac con procesador M1 (Apple Silicon) requiere el uso de una máquina virtual y una aplicación de virtualización como UTM (Universal Type Machine). A continuación, te proporciono una guía paso a paso:
@@ -70,5 +74,3 @@ La instalación de Kali Linux en una Mac con procesador M1 (Apple Silicon) requi
 Recuerda que esta configuración permite ejecutar Kali Linux en una máquina virtual en tu Mac M1 y puede tener algunas limitaciones de rendimiento en comparación con una instalación nativa. La elección entre la instalación nativa en Windows o la instalación en una máquina virtual en una Mac M1 dependerá de tus preferencias y necesidades específicas.
 
 
-## Para más ayuda puedes consultar este video
-[Como instalar Kali Linux](https://youtu.be/TDmRD4FU4a8?si=JShayp5fGQ9WaXBh) 
